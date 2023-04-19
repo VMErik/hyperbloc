@@ -7,3 +7,5 @@ Un blog increible para el curso de Git y Github de Platzi
 * Instalacion y configuraciones
 
 Tambien se incluyen manuales de buenas practicas en el desarrollo en equipo
+
+Tambien comandos basicos
