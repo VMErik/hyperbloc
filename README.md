@@ -1,20 +1,21 @@
+
 # HYPERBLOG 💚
 Un blog increible para el curso de Git y Github de Platzi 
 
 
-## En este curso veremos de todo
-* Comandos baiscos
-* Instalacion y configuraciones
+## Contenido del repositorio
+Este repositorio no contiene codigo reelevante, esta hecho en base al curso de Git y Git Hub de Platzi y su unica finalidad es poner en practica lo aprendido.
 
-Tambien se incluyen manuales de buenas practicas en el desarrollo en equipo
 
-<<<<<<< HEAD
-Tambien comandos basicos
-=======
-Tambien comandos basicos
-*Comando 1
-*Comando 2
-*Comando 3
-
-Disponible todas las edades
->>>>>>> readme-mejorado
+## Aprendizaje
+* Instalacion y configuracion de Git
+* Creacion de repositorios locales
+* Conexion con repositorios remotos en Github
+* Creacion de ramas
+* Trabajo colaborativo
+* Uso de GitHub
+* Merge
+* Reset
+* GitK (Visualización)
+* Creacion de Alias en Git para optimizacion de comando
+* Y mucho mas....
